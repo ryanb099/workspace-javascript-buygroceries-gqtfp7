@@ -5,7 +5,7 @@
 // get all the hot class elements- change them to cool class
 $("li.hot").removeClass("hot");
 $("li").addClass("cool");
-
+//Novermber 2 2020
 /*
 var nlist= document.querySelectorAll("li.hot");
 for (var i=0; i<nlist.length; i++)
